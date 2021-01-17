@@ -7,7 +7,7 @@ influxdbとgrafanaをDockerでパパっと立ち上げる。
 docker-compose up -d (sudoが最初に必要な場合あり)
 ```
 
-- influxdbにサンプルデータ投入 (sampleという名前のdatabaseが作られる。)  
+- python scriptにてデータベース作成&サンプルデータ投入   
 必要なモジュールは[requirements.txt](/requirements.txt)を参照。
 ```
 python write_sample_data.py
