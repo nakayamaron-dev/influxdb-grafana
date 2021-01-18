@@ -1,6 +1,11 @@
 # influxdb-grafana
 influxdbとgrafanaをDockerでパパっと立ち上げる。
 
+## 検証環境
+- Mac or Linux (Windows未検証)
+- docker
+- docker-compose
+
 ## 起動
 - docker-composeで起動
 ```
