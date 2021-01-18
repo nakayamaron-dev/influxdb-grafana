@@ -1,5 +1,5 @@
 # influxdb-grafana
-influxdbとgrafanaをDockerでパパっと立ち上げる。
+influxdbとgrafanaをDockerでサクッと立ち上げる。
 
 ## 検証環境
 - Mac or Linux (Windows未検証)
